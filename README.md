@@ -51,25 +51,25 @@ Key network roles:
 
 ### Host and network foundation
 
-- `screenshots/host-labNAT.png`
+- ![Network](screenshots//host-labNAT.png)
   - Host NAT configuration for the lab
-- `screenshots/host-labswitch-ip.png`
+- ![Network](screenshots/host-labswitch-ip.png)
   - Internal lab switch IP/gateway configuration
 
 ### Server services
 
-- `screenshots/server-DHCPmanager.png`
+- ![Network](screenshots/server-DHCPmanager.png)
   - DHCP service and scope.
-- `screenshots/server-ADcomputers.png`
+- ![Network](screenshots/server-ADcomputers.png)
   - Active Directory is tracking domain computer objects
 
 ### Client validation
 
-- `screenshots/client1-interface-config.png`
+- ![Network](screenshots/client1-interface-config.png)
   - Client network configuration
-- `screenshots/client1-domainresolve.png`
+- ![Network](screenshots/client1-domainresolve.png)
   - Client1 resolves the lab domain through DNS
-- `screenshots/client2-domainresolve.png`
+- ![Network](screenshots/client2-domainresolve.png)
   - Client2 resolves the lab domain through DNS
 
 ## Repository Layout
